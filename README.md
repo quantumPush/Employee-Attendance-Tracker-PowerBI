@@ -14,4 +14,4 @@ Features
 - DAX
 
 Dashboard Preview
-(See screenshot above)
+![Dashboard Screenshot](Employee Attendance Tracker.png)
